@@ -1,0 +1,3 @@
+Git pull origin main -> main ek replace kern plwn branch name ekn
+
+Git fetch -> remote eke wen changes local ext gnnw
